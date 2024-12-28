@@ -1,0 +1,5 @@
+{
+    "encryption_key": "mysecretpassword",
+    "encryption_algorithm": "AES"
+  }
+  
